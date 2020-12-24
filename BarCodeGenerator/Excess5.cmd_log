@@ -1,0 +1,6 @@
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/Excess5.v -lang verilog -prj Tentativa4 -o Excess5.spl -module Excess5 -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Excess5.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/Excess5.sym 
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/Excess5.v -lang verilog -prj Tentativa4 -o Excess5.spl -module Excess5 -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Excess5.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/Excess5.sym 
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/Excess5.v -lang verilog -prj Tentativa4 -o Excess5.spl -module Excess5 -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Excess5.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/Excess5.sym 

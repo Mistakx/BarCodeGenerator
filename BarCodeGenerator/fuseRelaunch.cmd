@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic_FinalSchematic_sch_tb_isim_beh.exe" -prj "C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic_FinalSchematic_sch_tb_beh.prj" "work.FinalSchematic_FinalSchematic_sch_tb" "work.glbl" 

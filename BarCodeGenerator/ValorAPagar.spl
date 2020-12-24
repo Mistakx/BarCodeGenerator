@@ -1,0 +1,12 @@
+[Inputs]
+ClientA
+ClientB
+Button30Min
+Button1Hour
+Button2Hours
+[Outputs]
+=valorAPagar[5:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel ValorAPagar
+

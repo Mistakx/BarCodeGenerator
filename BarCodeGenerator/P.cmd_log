@@ -1,0 +1,6 @@
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/P.v -lang verilog -prj Tentativa4 -o P.spl -module P -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 P.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/P.sym 
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/P.v -lang verilog -prj Tentativa4 -o P.spl -module P -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 P.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/P.sym 
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/P.v -lang verilog -prj Tentativa4 -o P.spl -module P -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 P.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/P.sym 

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/ValorAPagar.v -lang verilog -prj Tentativa4 -o ValorAPagar.spl -module ValorAPagar -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 ValorAPagar.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/ValorAPagar.sym 

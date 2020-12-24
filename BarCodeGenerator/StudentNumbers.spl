@@ -1,0 +1,9 @@
+[Inputs]
+ClientA
+ClientB
+[Outputs]
+=StudentNumbers[44:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel StudentNumbers
+

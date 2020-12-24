@@ -1,0 +1,14 @@
+sch2sym -intstyle ise -family artix7 -refsym FinalSchematic C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sym 
+sch2sym -intstyle ise -family artix7 -refsym FinalSchematic C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sym 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 
+sch2sym -intstyle ise -family artix7 -refsym FinalSchematic C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sym 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 
+sch2hdl -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch 

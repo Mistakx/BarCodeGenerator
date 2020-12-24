@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="ValueToPay">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2020-11-29T15:40:59</timestamp>
+    <attr value="ValueToPay" name="VeriModel" />
+    <pin polarity="Input" x="0" y="-288" name="ClientA" />
+    <pin polarity="Input" x="0" y="-224" name="ClientB" />
+    <pin polarity="Input" x="0" y="-160" name="Button30Min" />
+    <pin polarity="Input" x="0" y="-96" name="Button1Hour" />
+    <pin polarity="Input" x="0" y="-32" name="Button2Hours" />
+    <pin polarity="Output" x="464" y="-288" name="valueToPay(4:0)" />
+    <graph>
+        <attrtext style="alignment:BCENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="232" y="-328" type="symbol" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-288" type="pin ClientA" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-224" type="pin ClientB" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-160" type="pin Button30Min" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-96" type="pin Button1Hour" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-32" type="pin Button2Hours" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="392" y="-288" type="pin valueToPay(4:0)" />
+        <rect width="336" x="64" y="-320" height="320" />
+        <line x2="0" y1="-288" y2="-288" x1="64" />
+        <line x2="0" y1="-224" y2="-224" x1="64" />
+        <line x2="0" y1="-160" y2="-160" x1="64" />
+        <line x2="0" y1="-96" y2="-96" x1="64" />
+        <line x2="0" y1="-32" y2="-32" x1="64" />
+        <rect width="64" x="400" y="-300" height="24" />
+        <line x2="464" y1="-288" y2="-288" x1="400" />
+    </graph>
+</symbol>

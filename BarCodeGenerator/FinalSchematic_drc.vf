@@ -1,0 +1,63 @@
+////////////////////////////////////////////////////////////////////////////////
+// Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+////////////////////////////////////////////////////////////////////////////////
+//   ____  ____ 
+//  /   /\/   / 
+// /___/  \  /    Vendor: Xilinx 
+// \   \   \/     Version : 14.7
+//  \   \         Application : sch2hdl
+//  /   /         Filename : FinalSchematic_drc.vf
+// /___/   /\     Timestamp : 11/29/2020 17:55:02
+// \   \  /  \ 
+//  \___\/\___\ 
+//
+//Command: C:\Tools\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\sch2hdl.exe -intstyle ise -family artix7 -verilog FinalSchematic_drc.vf -w C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/FinalSchematic.sch
+//Design Name: FinalSchematic
+//Device: artix7
+//Purpose:
+//    This verilog netlist is translated from an ECS schematic.It can be 
+//    synthesized and simulated, but it should not be modified. 
+//
+`timescale 1ns / 1ps
+
+module FinalSchematic(Button1Hour, 
+                      Button2Hours, 
+                      Button30Min, 
+                      ClientA, 
+                      ClientB, 
+                      D, 
+                      Excess5, 
+                      P_, 
+                      StudentNumbers, 
+                      ValueToPay);
+
+    input Button1Hour;
+    input Button2Hours;
+    input Button30Min;
+    input ClientA;
+    input ClientB;
+   output [3:0] D;
+   output [5:0] Excess5;
+   output P_;
+   output [44:0] StudentNumbers;
+   output [4:0] ValueToPay;
+   
+   wire [4:0] ValueToPay_DUMMY;
+   
+   assign ValueToPay[4:0] = ValueToPay_DUMMY[4:0];
+   ValueToPay  XLXI_4 (.Button1Hour(Button1Hour), 
+                      .Button2Hours(Button2Hours), 
+                      .Button30Min(Button30Min), 
+                      .ClientA(ClientA), 
+                      .ClientB(ClientB), 
+                      .valueToPay(ValueToPay_DUMMY[4:0]));
+   StudentNumbers  XLXI_8 (.ClientA(ClientA), 
+                          .ClientB(ClientB), 
+                          .StudentNumbers(StudentNumbers[44:0]));
+   Excess5  XLXI_12 (.ValueToPay(ValueToPay_DUMMY[4:0]), 
+                    .Excess5(Excess5[5:0]));
+   P  XLXI_13 (.valueToPay(ValueToPay_DUMMY[4:0]), 
+              .P(P_));
+   D  XLXI_14 (.valueToPay(ValueToPay_DUMMY[4:0]), 
+              .D(D[3:0]));
+endmodule

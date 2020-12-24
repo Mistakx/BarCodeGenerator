@@ -1,0 +1,8 @@
+[Inputs]
+=valueToPay[4:0]=
+[Outputs]
+P
+[BiDir]
+[ATTRIBUTES]
+VeriModel P
+

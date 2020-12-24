@@ -1,0 +1,14 @@
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.v -lang verilog -prj Tentativa4 -o StudentNumbers.spl -module StudentNumbers -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 StudentNumbers.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.sym 
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.v -lang verilog -prj Tentativa4 -o StudentNumbers.spl -module StudentNumbers -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 StudentNumbers.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.sym 
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.v -lang verilog -prj Tentativa4 -o StudentNumbers.spl -module StudentNumbers -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 StudentNumbers.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.sym 
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.v -lang verilog -prj Tentativa4 -o StudentNumbers.spl -module StudentNumbers -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 StudentNumbers.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.sym 
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.v -lang verilog -prj Tentativa4 -o StudentNumbers.spl -module StudentNumbers -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 StudentNumbers.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.sym 
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.v -lang verilog -prj Tentativa4 -o StudentNumbers.spl -module StudentNumbers -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 StudentNumbers.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.sym 
+vhdtdtfi -lib work C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.v -lang verilog -prj Tentativa4 -o StudentNumbers.spl -module StudentNumbers -template C:/Tools/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 StudentNumbers.spl C:/Users/Mistakx/Desktop/SistemasDigitaisI/Tentativa4/StudentNumbers.sym 

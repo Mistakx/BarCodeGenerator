@@ -1,0 +1,8 @@
+verilog isim_temp "../../ValorAPagar.v"
+verilog isim_temp "StudentNumbers.v"
+verilog isim_temp "P.v"
+verilog isim_temp "Excess5.v"
+verilog isim_temp "D.v"
+verilog isim_temp "FinalSchematic.vf"
+verilog isim_temp "GODDAMIT.v"
+verilog isim_temp "C:/Tools/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
