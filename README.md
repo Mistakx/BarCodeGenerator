@@ -1,3 +1,3 @@
-Digital Systems Project 1
+Digital systems project I.
 
-Graded in 19/20.
+Graded in 19.0/20.
