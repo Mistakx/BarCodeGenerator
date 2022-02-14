@@ -4,4 +4,4 @@ Graded in 19.0/20.
 
 # Schematic
 
-![Project](./BarCodeGeneratorSchematic.png)
+![Project](./assets/BarCodeGeneratorSchematic.png)
